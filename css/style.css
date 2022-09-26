@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.container {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 110px;
+}
+
+h1 {
+	font-family:"Lato";
+	font-style: normal;
+	color: #1E212C;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;	
+}
+
+.img {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.chapter {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 28px;
+}
+
+.chapter__container {
+	font-family: 'Lato';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 20px; 
+	line-height: 160%;
+}
+
+.chapter1 {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 43px;
+}
+
+.chapter1__container {
+	font-family: 'Lato';
+    font-style: normal;
+	color: #424551;
+    font-weight: 400;
+    font-size: 16px;
+	line-height: 160%;
+}
+
+.chapter2 {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 72px;
+}
+
+.chapter2__container {
+	font-family: 'Lato';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 20px;
+	padding-left: 58px;
+	line-height: 150%;
+}
+
+.chapter3 {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 24px;
+}
+
+.chapter3__container {
+	font-family: 'Lato';
+    font-style: normal;
+	color:#424551 ;
+    font-weight: 400;
+    font-size: 16px;
+	line-height: 160%;
+}
+
+.chapter4 {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 24px;
+}
+
+.chapter4__container {
+	font-family: 'Lato';
+    font-style: normal;
+	color:#424551 ;
+    font-weight: 400;
+    font-size: 16px;
+	line-height: 160%;
+	padding-left: 32px;
+}
+
+.chapter5 {
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+.chapter5__container {
+	font-family: 'Lato';
+    font-style: normal;
+	color:#424551 ;
+    font-weight: 400;
+    font-size: 16px;
+	line-height: 160%;
+}
+
+   
